@@ -1,0 +1,34 @@
+
+h1 {
+  color: turquoise;
+    font-family: serif italic;
+   
+}
+
+body {
+    font-family: monospace; 
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+    background-color: teal;
+    font-size: 12pt;
+}
+
+
+
+img {
+    display: block;
+    margin: 20px;
+}
+
+.interviewer {
+    color: darksalmon;
+    
+}
+
+.antwort {
+   
+    color: sandybrown;
+}
+
+
